@@ -90,7 +90,7 @@ html {
 }
 
 body {
-  background: #1b1f22;
+  background: #091232;
 }
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
   -moz-animation: none !important;
@@ -402,7 +402,7 @@ select {
 }
 select option {
   color: #ffffff;
-  background: #1b1f22;
+  background: #091232;
 }
 select:focus::-ms-value {
   background-color: transparent;
@@ -483,7 +483,7 @@ input[type=checkbox]:checked + label:before,
 input[type=radio]:checked + label:before {
   background: #ffffff !important;
   border-color: #ffffff !important;
-  color: #1b1f22;
+  color: #091232;
   content: "";
 }
 input[type=checkbox]:focus + label:before,
@@ -936,7 +936,7 @@ input[type=button].primary,
 button.primary,
 .button.primary {
   background-color: #ffffff;
-  color: #1b1f22 !important;
+  color: #091232 !important;
   font-weight: 600;
 }
 input[type=submit].disabled, input[type=submit]:disabled,
@@ -1337,7 +1337,7 @@ body.is-preload #header .content .inner {
   position: relative;
   width: 40rem;
   max-width: 100%;
-  background-color: rgba(27, 31, 34, 0.85);
+  background-color: rgba(9, 18, 50, 0.85);
   border-radius: 4px;
   opacity: 0;
 }
